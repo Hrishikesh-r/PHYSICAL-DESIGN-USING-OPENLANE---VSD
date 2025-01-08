@@ -1,6 +1,6 @@
 # PHYSICAL-DESIGN-USING-OPENLANE---VSD
 
-## DAY 1 - Introduction, PD flow, RISC-V Architecture & Getting familiar with Openlane
+## Day 1 - Introduction, PD flow, RISC-V Architecture & Getting familiar with Openlane
 
 ### Introduction :
 VLSI (Very Large Scale Integration) refers to the process of creating integrated circuits (ICs) by combining millions or billions of transistors onto a single chip. VLSI enables the development of compact, efficient, and high-performance electronic systems. The chip design process typically involves several key stages:
