@@ -1,4 +1,4 @@
-# Day -3 Design Library Cell using magic layout and ngspice charcterization
+# Day 3 - Design Library Cell using magic layout and ngspice charcterization
 
 ### IO Placer Revision in OpenLANE
 In OpenLANE, you have the flexibility to adjust IO Placement configurations during the physical design flow. The default setting for IO placement is typically random equidistant, but this can be changed on the fly to suit the specific design requirements. To alter the IO placement mode, you can use the following command after running the floorplan step:
