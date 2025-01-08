@@ -1,4 +1,4 @@
-#  Day 4 Timing Analysis and Clock Tree Synthesis (CTS)
+#  Day - 4 Timing Analysis and Clock Tree Synthesis (CTS)
 
 Standard Cell LEF Generation Process
 A Library Exchange Format (LEF) file contains only the necessary details of a standard cell for the physical design process, such as PR boundaries, I/O ports, and power/ground rails. Below are the steps to generate a LEF file from a .mag file:
