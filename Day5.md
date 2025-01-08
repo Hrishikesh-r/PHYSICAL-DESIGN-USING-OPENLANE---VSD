@@ -251,4 +251,10 @@ Also the tns and wns can be seen using the comands (report_checks, report_skew,e
 
 ![image](https://github.com/user-attachments/assets/f063d716-f7ca-4f5e-a30d-6c479ee66ea0)
 
+
+The Final layout can be seen using magic tool:
+
+![image](https://github.com/user-attachments/assets/f2e32c7b-0460-4329-95bf-e2e5e42dfa76)
+
+
 Next steps in the physical design include sign off checks (LEC,PV check, STA signoff etc).
